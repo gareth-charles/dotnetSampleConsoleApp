@@ -8,6 +8,8 @@ The goal here is to set up a basic project split into three chunks:
 
 All within a solution called `dotnetSampleConsoleApp`
 
+The results of running the commands are shown in this repository, with minor changes (an example of calling `Lib` code from `UnitTest1.cs` and `Program.cs`).
+
 ## Install dependencies
 ```
 # install dotnet on ubuntu
